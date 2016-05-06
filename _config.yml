@@ -1,0 +1,28 @@
+name: mas
+favicon: null
+layout_spectrum: 0.1348732952028513
+typography_spectrum: 0.9719502094667405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09884272213093936
+  lightness: 0.19352028844878078
+  saturation: 0.047891118098050356
+  rhythmicContrast: 0.3671512745786458
+purpose: []
